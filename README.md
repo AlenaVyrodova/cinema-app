@@ -1,5 +1,5 @@
-# Cinema application 
-<img src="C:\projects\cinema-app\istockphoto-911590226-612x612.jpg" style="border-radius:8px;" align="center" width=px>
+
+# Cinema application <img src="C:\projects\cinema-app\istockphoto-911590226-612x612.jpg" style="border-radius:8px;" align="center" width=65px>
 
 
 ## Project description:
