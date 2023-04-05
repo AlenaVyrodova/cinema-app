@@ -29,14 +29,17 @@ This project was created for people, who need help in managing their cinema busi
   ![image](cinema.png)
 
   🎞️ Technologies 🎞️
-- Java 11
+- Java v.11
 - Git
-- Apache Maven
-- Apache TomCat
-- MySQL
+- Apache Maven v.3.1.1
+- Apache TomCat  v.9.0.72
+- MySQL  v.8.0.32
 - Javax Servlet
-- Spring Framework
+- Spring  MVC
+- Spring Security
 - Hibernate
+- Jackson
+- json
 
 ## 🎞️ Steps to run the program :🎞️
 
