@@ -1,10 +1,11 @@
 package cinema.service.impl;
+import org.springframework.stereotype.Service;
 
 import cinema.dao.MovieDao;
 import cinema.model.Movie;
 import cinema.service.MovieService;
 import java.util.List;
-import org.springframework.stereotype.Service;
+
 
 @Service
 public class MovieServiceImpl implements MovieService {
