@@ -9,5 +9,8 @@
         <module name="cinema-app" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-security-part-2" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
